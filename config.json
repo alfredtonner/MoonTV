@@ -6,6 +6,11 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
+    "ddyszy": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "低端影视资源",
+      "detail": "hhttps://ddys.pro/"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
