@@ -3,12 +3,12 @@
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
+      "name": "电影天堂",
       "detail": "http://caiji.dyttzyapi.com"
     },
     "ddyszy": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "低端影视资源",
+      "api": "https://ddys.pro/api.php/provide/vod",
+      "name": "低端影视",
       "detail": "hhttps://ddys.pro/"
     },
     "heimuer": {
